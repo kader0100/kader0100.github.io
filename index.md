@@ -1,8 +1,4 @@
----
-title: "Ahmed Noor Kader Mustajir Md Eusoff"
-layout: default
-theme: jekyll-theme-architect
----
+
 
 # Welcome to My GitHub Page
 
@@ -22,5 +18,5 @@ Check out my repositories for various **basic-to-advanced CRUD systems, system i
 - [Multi-Table Data Management](https://github.com/kader0100/Basic-CRUD3)  
 
 ## Contact Me  
-🌐 Website: [mustajir.org](https://mustajir.org)  
+Website: [mustajir.org](https://mustajir.org)  
 
